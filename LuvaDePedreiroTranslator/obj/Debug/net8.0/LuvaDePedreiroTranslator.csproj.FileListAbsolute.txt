@@ -1,0 +1,14 @@
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\bin\Debug\net8.0\LuvaDePedreiroTranslator.exe
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\bin\Debug\net8.0\LuvaDePedreiroTranslator.deps.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\bin\Debug\net8.0\LuvaDePedreiroTranslator.runtimeconfig.json
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\bin\Debug\net8.0\LuvaDePedreiroTranslator.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\bin\Debug\net8.0\LuvaDePedreiroTranslator.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\refint\LuvaDePedreiroTranslator.dll
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.pdb
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\LuvaDePedreiroTranslator.genruntimeconfig.cache
+C:\Users\Windows\Desktop\Programação\Projetos C#\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\LuvaDePedreiroTranslator\obj\Debug\net8.0\ref\LuvaDePedreiroTranslator.dll
